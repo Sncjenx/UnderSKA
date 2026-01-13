@@ -7,7 +7,7 @@ Programming
 i ve been trying to learn python feel free to challenge me in anyway you want.
 
 * 🌍  I'm based in Canada
-* ✉️  You can contact me at [blepetit02@gmail.com](mailto:blepetit02@gmail.com)
+* ✉️  You can contact me at [blepetit02@gmail.com](mailto:sashabelanger900@gmail.com)
 * 🧠  I'm currently learning python
 * 👥  I'm looking to collaborate on anything
 
